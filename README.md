@@ -9,9 +9,9 @@
 
 * 🌱 - while improving my skills as a **full-stack developer**
 
-* 📫 How to reach me **maltesydow@gmail.com**
+* 📫 How to reach me : **maltesydow@gmail.com** OR [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/malte-von-sydow/)
 
-* ⚡ Fun fact **I play a mean guitar**
+* ⚡ Fun fact : **I play a mean guitar**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavosy&label=Profile%20views&color=0e75b6&style=flat" alt="mavosy" /> </p>
 
@@ -24,6 +24,3 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/malte-von-sydow/)
