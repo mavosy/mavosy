@@ -9,8 +9,6 @@
 
 * 🌱 - while improving my skills as a **full-stack developer**
 
-* 📫 How to reach me : **maltesydow@gmail.com** OR [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/malte-von-sydow/)
-
 * ⚡ Fun fact : **I play a mean guitar**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavosy&label=Profile%20views&color=0e75b6&style=flat" alt="mavosy" /> </p>
