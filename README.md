@@ -2,14 +2,14 @@
   <h1 align="center">Hi there! 👋</h1>
 </div>
 <div>
-  <h3 align="center">I'm a hard-working, fun-loving dev from Sweden</h3>
+  <h3 align="center">I'm a hard-working dev from Sweden, mainly specializing in C#/.NET</h3>
 </div>
 
-* 🔭 I’m currently developing **tools to enable students in their learning**
+* I'm currently devoloping BI software for the dental busimness with my collegues at Knowyn
 
-* 🌱 - while improving my skills as a **full-stack developer**
+* In my spare time I'm developing **tools to enable students in their learning**
 
-* ⚡ Fun fact : **I play a mean guitar**
+* while improving my skills as a **full-stack developer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavosy&label=Profile%20views&color=0e75b6&style=flat" alt="mavosy" /> </p>
 
