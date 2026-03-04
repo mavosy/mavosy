@@ -5,7 +5,7 @@
   <h3 align="center">I'm a hard-working dev from Sweden, mainly specializing in C#/.NET</h3>
 </div>
 
-* I'm currently devoloping BI software for the dental busimness with my collegues at Knowyn
+* I'm currently devoloping BI software for the dental business with my collegues at Knowyn
 
 * In my spare time I'm developing **tools to enable students in their learning**
 
